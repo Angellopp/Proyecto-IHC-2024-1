@@ -29,8 +29,6 @@ Para aquellos que prefieren aprender escuchando, Codetry ofrece una amplia gama 
 3. **Aprendizaje**: Utiliza nuestro asistente de LLM, recursos de audio y problemas recomendados para mejorar tus habilidades de programación.
 4. **Seguimiento**: Mantente al tanto de tu progreso utilizando el historial gráfico y establece metas para alcanzar tus objetivos.
 
-¡Únete a la comunidad de Codetry y comienza tu viaje hacia el dominio de la programación hoy mismo!
-
 ## Equipo
 
 Equipo.
