@@ -31,8 +31,6 @@ Para aquellos que prefieren aprender escuchando, Codetry ofrece una amplia gama 
 
 ## Equipo
 
-Equipo.
-
 - Chavez Chico Joel Jhotan
 - PIsfil Puicon Angello Jamir
 - Ulloa Vega Ricardo 
