@@ -31,13 +31,9 @@ Para aquellos que prefieren aprender escuchando, Codetry ofrece una amplia gama 
 
 ¡Únete a la comunidad de Codetry y comienza tu viaje hacia el dominio de la programación hoy mismo!
 
-## Contribución
-
-¡Nos encantaría recibir tu feedback y contribuciones para hacer de Codetry una plataforma aún mejor! Si tienes ideas para nuevas características, encuentras algún error o simplemente quieres compartir tu experiencia, no dudes en ponerte en contacto con nosotros.
-
 ## Equipo
 
-Codetry fue creado por un equipo apasionado por la enseñanza de la programación y el acceso equitativo al conocimiento tecnológico.
+Equipo.
 
 - Chavez Chico Joel Jhotan
 - PIsfil Puicon Angello Jamir
@@ -46,5 +42,6 @@ Codetry fue creado por un equipo apasionado por la enseñanza de la programació
 
 *Nota: El proyecto Codetry está en constante desarrollo.*
 # *Link del los Casos de Uso* : [Casos de Usos](https://docs.google.com/document/d/1jY-54AmgjJwYDiCLFdVAKpA0wWbhDOhYNpgjPG8cd6s/edit)
-# *Link de los Figmas* : [Figma1](https://www.figma.com/file/0upuoJhOJKoRfe3yM1Tm8A/Untitled?type=design&node-id=0-1&mode=design&t=FQmv03LRoPbyEeDL-0) [Figma2](https://www.figma.com/file/GyG74wnZICr4btS9xLVujo/Untitled?type=design&node-id=0-1&mode=design&t=0kGHSU7Mu4QKl1oh-0) 
+# *Link de los Figmas* : [Figma1](https://www.figma.com/file/0upuoJhOJKoRfe3yM1Tm8A/Untitled?type=design&node-id=0-1&mode=design&t=FQmv03LRoPbyEeDL-0) [Figma2](https://www.figma.com/file/GyG74wnZICr4btS9xLVujo/Untitled?type=design&node-id=0-1&mode=design&t=0kGHSU7Mu4QKl1oh-0)
+# *Link de PPt* : [PPT](https://docs.google.com/presentation/d/1GbGd0jrRWh9EobzGli4IJ0PHfJlKoyXlLjDcQSWCF6s/edit#slide=id.g2d121c5fb0c_0_10)
   
