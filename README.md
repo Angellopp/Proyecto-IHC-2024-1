@@ -1,4 +1,4 @@
-# CodingBuddy
+# Codetry
 
 ## Descripción del Proyecto
 
@@ -12,7 +12,7 @@ Nuestro asistente de aprendizaje por lenguaje natural está aquí para responder
 
 ### 2. Recursos de Audio
 
-Para aquellos que prefieren aprender escuchando, CodingBuddy ofrece una amplia gama de recursos de audio. Desde lecciones grabadas hasta podcasts sobre programación, nuestra plataforma asegura que el conocimiento esté al alcance de tus oídos, en cualquier momento y en cualquier lugar.
+Para aquellos que prefieren aprender escuchando, Codetry ofrece una amplia gama de recursos de audio. Desde lecciones grabadas hasta podcasts sobre programación, nuestra plataforma asegura que el conocimiento esté al alcance de tus oídos, en cualquier momento y en cualquier lugar.
 
 ### 3. Bot de Ayuda para la Recomendación de Problemas
 
@@ -24,20 +24,20 @@ Para aquellos que prefieren aprender escuchando, CodingBuddy ofrece una amplia g
 
 ## ¿Cómo Empezar?
 
-1. **Registro**: Crea una cuenta en CodingBuddy para acceder a todas las funciones de la plataforma.
-2. **Exploración**: Explora los recursos disponibles y descubre todo lo que CodingBuddy tiene para ofrecer.
+1. **Registro**: Crea una cuenta en Codetry para acceder a todas las funciones de la plataforma.
+2. **Exploración**: Explora los recursos disponibles y descubre todo lo que Codetry tiene para ofrecer.
 3. **Aprendizaje**: Utiliza nuestro asistente de LLM, recursos de audio y problemas recomendados para mejorar tus habilidades de programación.
 4. **Seguimiento**: Mantente al tanto de tu progreso utilizando el historial gráfico y establece metas para alcanzar tus objetivos.
 
-¡Únete a la comunidad de CodingBuddy y comienza tu viaje hacia el dominio de la programación hoy mismo!
+¡Únete a la comunidad de Codetry y comienza tu viaje hacia el dominio de la programación hoy mismo!
 
 ## Contribución
 
-¡Nos encantaría recibir tu feedback y contribuciones para hacer de CodingBuddy una plataforma aún mejor! Si tienes ideas para nuevas características, encuentras algún error o simplemente quieres compartir tu experiencia, no dudes en ponerte en contacto con nosotros.
+¡Nos encantaría recibir tu feedback y contribuciones para hacer de Codetry una plataforma aún mejor! Si tienes ideas para nuevas características, encuentras algún error o simplemente quieres compartir tu experiencia, no dudes en ponerte en contacto con nosotros.
 
 ## Equipo
 
-CodingBuddy fue creado por un equipo apasionado por la enseñanza de la programación y el acceso equitativo al conocimiento tecnológico.
+Codetry fue creado por un equipo apasionado por la enseñanza de la programación y el acceso equitativo al conocimiento tecnológico.
 
 - Chavez Chico Joel Jhotan
 - PIsfil Puicon Angello Jamir
